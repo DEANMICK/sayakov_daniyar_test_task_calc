@@ -8,3 +8,4 @@ C:\Users\User\source\repos\calculator\calculator\obj\Debug\netcoreapp2.1\calcula
 C:\Users\User\source\repos\calculator\calculator\obj\Debug\netcoreapp2.1\calculator.AssemblyInfo.cs
 C:\Users\User\source\repos\calculator\calculator\obj\Debug\netcoreapp2.1\calculator.dll
 C:\Users\User\source\repos\calculator\calculator\obj\Debug\netcoreapp2.1\calculator.pdb
+C:\Users\User\source\repos\calculator\calculator\obj\Debug\netcoreapp2.1\calculator.csprojAssemblyReference.cache
